@@ -1,0 +1,705 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "员工休息室": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00108030910,
+                    -0.00063373688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00108030910,
+                        -0.00063373688
+                    ],
+                    [
+                        0.00107763346,
+                        -0.00041701050
+                    ],
+                    [
+                        0.00108023849,
+                        -0.00029059016
+                    ],
+                    [
+                        0.00108182168,
+                        -0.00023477714
+                    ],
+                    [
+                        0.00108131823,
+                        -0.00019852810
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "机房": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00110904282,
+                    0.00017608449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "中心书库": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00047283939,
+                    0.00025343868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00047612808,
+                        0.00010179548
+                    ],
+                    [
+                        -0.00081762284,
+                        0.00010179384
+                    ],
+                    [
+                        -0.00082090646,
+                        0.00016254080
+                    ],
+                    [
+                        -0.00088653742,
+                        0.00016203980
+                    ],
+                    [
+                        -0.00098425264,
+                        0.00016129388
+                    ],
+                    [
+                        -0.00103598352,
+                        0.00016089899
+                    ],
+                    [
+                        -0.00103639274,
+                        0.00017567404
+                    ],
+                    [
+                        -0.00110904282,
+                        0.00017608449
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00088653742,
+                        0.00016203980
+                    ],
+                    [
+                        -0.00088657884,
+                        0.00006403222
+                    ],
+                    [
+                        -0.00094732580,
+                        0.00006403222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "会议室": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00022985007,
+                    -0.00081105068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00020358111,
+                        -0.00039403103
+                    ],
+                    [
+                        0.00033820950,
+                        -0.00039403103
+                    ],
+                    [
+                        0.00084060325,
+                        -0.00039403103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00008210296,
+                        -0.00039541114
+                    ],
+                    [
+                        -0.00008209377,
+                        -0.00061074990
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "借还书处": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00084060325,
+                    -0.00039403103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "楼梯中": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00030537331,
+                    -0.00008208720
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00062388438,
+                        -0.00014775958
+                    ],
+                    [
+                        0.00070269370,
+                        -0.00014529933
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00107763346,
+                        -0.00041701050
+                    ],
+                    [
+                        0.00114762329,
+                        -0.00041701801
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00001968426,
+                        0.00010622697
+                    ],
+                    [
+                        -0.00001888409,
+                        0.00025448378
+                    ],
+                    [
+                        -0.00047283939,
+                        0.00025343868
+                    ],
+                    [
+                        -0.00098180380,
+                        0.00025776575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00108023849,
+                        -0.00029059016
+                    ],
+                    [
+                        0.00114598148,
+                        -0.00029224047
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00102448757,
+                        -0.00023477714
+                    ],
+                    [
+                        0.00108182168,
+                        -0.00023477714
+                    ],
+                    [
+                        0.00118045948,
+                        -0.00023477714
+                    ],
+                    [
+                        0.00118045948,
+                        -0.00014447761
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "楼梯东": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00094732580,
+                    0.00006403222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00062388438,
+                        -0.00023970092
+                    ],
+                    [
+                        0.00102448757,
+                        -0.00023477714
+                    ],
+                    [
+                        0.00102284576,
+                        -0.00016910475
+                    ],
+                    [
+                        0.00097523328,
+                        -0.00016910475
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "机房": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00097523328,
+                    -0.00016910475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "女卫生间": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00059843879,
+                    -0.00009522414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00001477793,
+                        -0.00010179056
+                    ],
+                    [
+                        -0.00001968426,
+                        0.00010622697
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "楼梯西": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00118045948,
+                    -0.00014447761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "报警阀间": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00114598148,
+                    -0.00029224047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "电梯1": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00108131823,
+                    -0.00019852810
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00020154235,
+                        -0.00008210052
+                    ],
+                    [
+                        0.00030537331,
+                        -0.00008208720
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00000984753,
+                        -0.00039506208
+                    ],
+                    [
+                        -0.00001477793,
+                        -0.00010179056
+                    ],
+                    [
+                        0.00007462822,
+                        -0.00009951832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "消防控制室": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00114762329,
+                    -0.00041701801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "存包": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00016417768,
+                    -0.00061731714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00033820950,
+                        -0.00039403103
+                    ],
+                    [
+                        0.00033820950,
+                        -0.00080776706
+                    ],
+                    [
+                        0.00022985007,
+                        -0.00081105068
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00020358111,
+                        -0.00039403103
+                    ],
+                    [
+                        0.00016744628,
+                        -0.00039420559
+                    ],
+                    [
+                        -0.00000984753,
+                        -0.00039506208
+                    ],
+                    [
+                        -0.00008210296,
+                        -0.00039541114
+                    ],
+                    [
+                        -0.00047612808,
+                        -0.00039731465
+                    ],
+                    [
+                        -0.00047612808,
+                        0.00010179548
+                    ],
+                    [
+                        -0.00001968426,
+                        0.00010622697
+                    ],
+                    [
+                        0.00020029749,
+                        0.00010836272
+                    ],
+                    [
+                        0.00020154235,
+                        -0.00008210052
+                    ],
+                    [
+                        0.00020259378,
+                        -0.00024296953
+                    ],
+                    [
+                        0.00020358111,
+                        -0.00039403103
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "男卫生间": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00070269370,
+                    -0.00014529933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00020259378,
+                        -0.00024296953
+                    ],
+                    [
+                        0.00062388438,
+                        -0.00023970092
+                    ],
+                    [
+                        0.00062388438,
+                        -0.00014775958
+                    ],
+                    [
+                        0.00059843879,
+                        -0.00014694114
+                    ],
+                    [
+                        0.00059843879,
+                        -0.00009522414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "出口": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00076508657,
+                    -0.00061403352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00098425264,
+                        0.00016129388
+                    ],
+                    [
+                        -0.00098180380,
+                        0.00025776575
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.00047612808,
+                        -0.00039731465
+                    ],
+                    [
+                        -0.00076508657,
+                        -0.00061403352
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "电梯3": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00007462822,
+                    -0.00009951832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "服务中心": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.00008209377,
+                    -0.00061074990
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0.00016744628,
+                        -0.00039420559
+                    ],
+                    [
+                        0.00016417768,
+                        -0.00061731714
+                    ]
+                ]
+            }
+        }
+    ]
+}
